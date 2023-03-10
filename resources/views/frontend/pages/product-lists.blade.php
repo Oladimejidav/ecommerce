@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title','E-SHOP || PRODUCT PAGE')
+@section('title','STEELBNG || PRODUCT PAGE')
 
 @section('main-content')
 	
